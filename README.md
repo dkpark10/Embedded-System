@@ -1,5 +1,11 @@
 # Embedded-System
 
+<감정인식을 통한 졸음운전 방지 프로젝트>
+github: https://github.com/dkpark10/Embedded-System/tree/master
+
+<구매목록>
+파이카메라 : http://www.devicemart.co.kr/1077951
+
 ![1](https://user-images.githubusercontent.com/43857226/46928775-2974b480-d077-11e8-8eea-829e26a944f0.JPG)
 ![2](https://user-images.githubusercontent.com/43857226/46928777-2974b480-d077-11e8-8e51-a6be30853f48.JPG)
 ![3](https://user-images.githubusercontent.com/43857226/46928778-2974b480-d077-11e8-847d-e0905093852a.JPG)
